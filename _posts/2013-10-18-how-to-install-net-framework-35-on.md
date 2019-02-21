@@ -6,7 +6,8 @@ search: true
 comments: true
 published: true
 tags:
-- tech
+- windows
+- imported-post
 ---
 
 I bet you there is a bunch of you struggling with this issue and it's driving me crazy. I needed to perform these installs quite often and had to remember what I did last time. This post will act as my extended memory. 

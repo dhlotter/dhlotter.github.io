@@ -6,6 +6,7 @@ comments: true
 published: true
 tags:
 - python
+- imported-post
 ---
 
 So I've been looking for a creative outlet for this very busy brain of mine, and TSQL doesn't seem to fit the bill so much. I looked into Java and Python and seeing that Python is an interpreted language, I've decided to give it a go. 

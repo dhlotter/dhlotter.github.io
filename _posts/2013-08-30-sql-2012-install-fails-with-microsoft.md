@@ -6,6 +6,7 @@ comments: true
 published: true
 tags:
 - sql
+- imported-post
 ---
 
 This happened to me again today, this time with a SQL 2012 install on Windows Server 2012. I did not make a note of the solution last time and as a result forgot what to do. After tons of Star Trek-like deep brain memory recovery, I finally remembered what was required and this time around I'm making a note. 

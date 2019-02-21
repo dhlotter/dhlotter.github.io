@@ -1,11 +1,12 @@
 ---
 title: Microsoft SQL Server 2012 Minimum Requirements Uninstall Error
-search: true
 date: '2013-03-08T10:56:00.000+02:00'
+search: true
 comments: true
+published: true
 tags:
 - sql
-published: true
+- imported-post
 ---
 
 This was kinda weird. I tried to uninstall SQL from my laptop and found myself 

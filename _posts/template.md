@@ -9,3 +9,7 @@ tags:
 - Technology
 ---
 
+
+image
+![results](/images/playing-around-with-python-001.png)
+

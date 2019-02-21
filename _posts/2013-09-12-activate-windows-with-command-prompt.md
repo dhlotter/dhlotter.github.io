@@ -7,6 +7,7 @@ published: true
 tags:
 - windows
 - operating system
+- imported-post
 ---
 
 I cannot tell you how many times I end up formatting my notebook. Eventually something always goes wrong and the prospect of troubleshooting seems way more daunting than a quick format. Besides, most of my information on the notebook is in the cloud, so I install the OS followed by a quick visit to [Ninite](http://ninite.com/) (a super service you should be using ), and then when Google drive installed, the wait begin for my files to re-download. Luckily some of us work for one of the largest ISP's in South Africa and down 

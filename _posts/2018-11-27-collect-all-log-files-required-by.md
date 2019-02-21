@@ -1,12 +1,12 @@
 ---
 title: "Collect all log files required by Microsoft FailoverDetector.exe"
 date: '2018-11-27T06:49:00.000+02:00'
-author: Hermann Lotter
+search: true
+comments: true
+published: true
 tags:
   - SQL
   - PowerShell
-last_modified_at: '2019-01-28T00:08:52.898+02:00'
-published: true
 ---
 
 When Microsoft's TigerTeam recently released their Failover Detection Utility I decided to play around with it as something that could make my life easier diagnosing failovers. I quickly released that there is quite a bunch of preparation required collecting all the required logs. So I turned to trusty PowerShell to assist and the exercise turned out both fun an frustrating at times. Nevertheless, I soon had a solution which reliably copied all relevant and required logs for analysis. I wrapped this in a function and adding it to my office PowerShell module for easy referencing. 
