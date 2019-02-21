@@ -47,4 +47,4 @@ print('Your weight', weigth, measure, '( rounded to the closest', increment, mea
 This prompts one for the amount of weight and will then output the individual 
 plates required. 
 
-![](/assets/images/posts/playing-around-with-python-001)
+![results](/images/playing-around-with-python-001.png)
