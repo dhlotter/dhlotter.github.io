@@ -1,5 +1,5 @@
 ---
-title: Collect all log files required by Microsoft FailoverDetector.exe
+title: "Collect all log files required by Microsoft FailoverDetector.exe"
 date: '2018-11-27T06:49:00.000+02:00'
 author: Hermann Lotter
 tags:
