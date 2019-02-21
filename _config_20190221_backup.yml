@@ -12,33 +12,33 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-GB"
-title                    : "Automate It All"
-title_separator          : "|"
-name                     : "dhlotter.com"
-description              : "Description to be updated."
-url                      : "https://dhlotter.com"
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "dhlotter/dhlotter.github.com"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "dhlotter-com"
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -98,35 +98,38 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-133558047-1
-    anonymize_ip         : false # true, false (default)
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Hermann Lotter"
-  avatar           : "/assets/images/dhlotter.png"
-  bio              : "a recording of things i've learned while striving to automate it all."
-  location         : "Cape Town, South Africa"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/dhlotter"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dhlotter"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/dhlotter"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dhlotter"
-    - label: "Messenger"
-      icon: "fab fa-fw fa-facebook-messenger"
-      url: "https://m.me/dhlotter"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -166,7 +169,6 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
-  - _posts/blog-template.md
   - Capfile
   - CHANGELOG
   - config
@@ -217,7 +219,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
