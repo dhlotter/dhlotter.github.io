@@ -2,10 +2,10 @@
 main:
    - title: "About"
      url: https://dhlotter.com/about/
-   - title: "DIY Projects"
+   - title: "Projects"
      url: https://dhlotter.com/projects/
    - title: "Studies"
-     url: /_pages/studies
+     url: https://dhlotter.com/studies/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
