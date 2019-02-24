@@ -1,3 +1,9 @@
+---
+permalink: /projects/1996-jeep-cherokee-maintenance
+title: "1996-jeep-cherokee-maintenance"
+author_profile: true
+---
+
 **AT FUEL STOPS**
 
 - [ ] Check engine oil level, add as required

@@ -10,10 +10,10 @@ What's going on here? Well, from time to time I like to tinker. This could be an
 **Projects**
 
 * [1996 Jeep Cherokee Build](/projects/1996-jeep-cherokee-build) 
-* [1986 BMW R80 Build](/_pages/projects/1986-bmw-r80) 
-* [Vertical Hydroponics Garden](/_pages/projects/hydroponics-vertical)
+* [1986 BMW R80 Build](/projects/1986-bmw-r80) 
+* [Vertical Hydroponics Garden](/projects/hydroponics-vertical)
 
 **Maintenance**
 
-* [Vehicle Maintenance Schedule/Checklist](/_pages/projects/1996-jeep-cherokee-maintenance.md)
+* [Vehicle Maintenance Schedule/Checklist](/projects/1996-jeep-cherokee-maintenance)
 
