@@ -5,7 +5,7 @@ main:
    - title: "DIY Projects"
      url: https://dhlotter.com/projects/
    - title: "Studies"
-     url: /_pages/studies.md
+     url: /_pages/studies
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
