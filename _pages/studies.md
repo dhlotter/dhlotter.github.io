@@ -1,3 +1,9 @@
+---
+permalink: /studies/
+title: "Studies"
+author_profile: true
+---
+
 A list online media I have consumed recently: 
 
 # Presentations

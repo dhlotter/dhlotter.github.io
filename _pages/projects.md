@@ -1,3 +1,9 @@
+---
+permalink: /projects/
+title: "Projects"
+author_profile: true
+---
+
 # DIY Journal
 What's going on here? Well, from time to time I like to tinker. This could be anything from Hydroponics to restoring old Jeeps and rebuilding motorcycles. This is my journal, mostly so I can learn from my mistakes. 
 
