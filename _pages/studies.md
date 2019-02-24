@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /studies/
 title: "Studies"
 author_profile: true

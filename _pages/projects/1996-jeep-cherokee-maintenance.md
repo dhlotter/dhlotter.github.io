@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /projects/1996-jeep-cherokee-maintenance
 title: "1996-jeep-cherokee-maintenance"
 author_profile: true
