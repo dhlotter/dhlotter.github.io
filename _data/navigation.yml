@@ -1,7 +1,7 @@
 # main links
 main:
-   - title: "About"
-     url: https://dhlotter.com/about/
+#   - title: "About"
+#     url: https://dhlotter.com/about/
    - title: "Projects"
      url: https://dhlotter.com/projects/
    - title: "Studies"
