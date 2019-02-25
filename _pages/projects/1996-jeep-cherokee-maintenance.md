@@ -16,7 +16,7 @@ author_profile: true
 * Tires visual inspection and tire pressure 2.3 bar
 
 
-**JULY - EVERY 6 MONTHS** 
+**EVERY 6 MONTHS** 
 * Change engine oil
 * Change oil filter
 * Lubricate steering linkage
@@ -31,7 +31,7 @@ author_profile: true
 * Check the coolant hoses, look for dry hose/leaks.
 
 
-**JANUARY - EVERY 1 YEAR:**
+**EVERY 1 YEAR:**
 * Change the air filter
 * Check the battery and cables (clean if needed)
 * Check the water pump (visual inspection only, look for leaks)
@@ -44,7 +44,7 @@ author_profile: true
 * Lubricate all door hinges, locks, and bonnet catches
 
 
-**JANUARY - EVERY 2 YEARS:**
+**EVERY 2 YEARS:**
 * All of the above plus:
 * Replace automatic transmission oil and filter
 * Replace transfer and differentials oil
@@ -67,7 +67,7 @@ author_profile: true
 * Have complete air-con service
 
 
-**JANUARY - EVERY 5 YEARS**
+**EVERY 5 YEARS**
 * Change timing belt / balancer
 * Consider replacing water pump
 * Revamp suspension
@@ -84,7 +84,7 @@ Some resources:
 
 Fluid Capacities 
 * Fuel 76.4l
-* Engine oil 5.7l 
+* Engine oil 5.7l (Shell Helix Ultra 5W-40)
 * Cooling system 11.4l 
 * Transmission oil - AW4 7.8 L / 30RH 4.67 L
 * Transfer case - SELEC-TRAC 242 1.3 L / COMMAND-TRAC 231 1.0 L
