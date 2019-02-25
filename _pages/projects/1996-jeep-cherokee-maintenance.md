@@ -5,9 +5,18 @@ title: "1996 Jeep Cherokee XJ - Maintenance Schedule"
 author_profile: true
 ---
 
+**Fluid Capacities**
+* Fuel 76.4 L
+* Engine oil 5.7 L (Shell Helix Ultra 5W-40)
+* Cooling system 11.4 L 
+* Transmission oil - AW4 7.8 L / 30RH 4.67 L
+* Transfer case - SELEC-TRAC 242 1.3 L / COMMAND-TRAC 231 1.0 L
+* Front Axle - 181–FBI 1.48 L
+* Rear Axle - 194–RBI 1.66 L / 8-1/4  2.08 L
+
 **MONTHLY CHECKS:**
 * Engine bay check levels and add as needed:
-    * Engine oil (Engine oil 5.7l)
+    * Engine oil 
     * Power steering 
     * Coolant
     * Window washer
@@ -82,11 +91,3 @@ Some resources:
 * https://checklist.com/full-car-service-checklist/
 * https://checklist.com/car-service-checklist/
 
-Fluid Capacities 
-* Fuel 76.4l
-* Engine oil 5.7l (Shell Helix Ultra 5W-40)
-* Cooling system 11.4l 
-* Transmission oil - AW4 7.8 L / 30RH 4.67 L
-* Transfer case - SELEC-TRAC 242 1.3 L / COMMAND-TRAC 231 1.0 L
-* Front Axle - 181–FBI 1.48 L
-* Rear Axle - 194–RBI 1.66 L / 8-1/4  2.08 L
