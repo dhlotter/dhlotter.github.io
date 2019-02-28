@@ -7,12 +7,24 @@ author_profile: true
 
 **Fluid Capacities**
 * Fuel 76.4 L
-* Engine oil 5.7 L (Shell Helix Ultra 5W-40)
-* Cooling system 11.4 L 
+* Engine oil 5.7 L (Shell Helix Ultra 5W-40, full synthetic)
+* Cooling system 9.9 L - 11.4 L 
 * Transmission oil - AW4 7.8 L / 30RH 4.67 L
 * Transfer case - SELEC-TRAC 242 1.3 L / COMMAND-TRAC 231 1.0 L
 * Front Axle - 181–FBI 1.48 L
 * Rear Axle - 194–RBI 1.66 L / 8-1/4  2.08 L
+
+<!---
+FLUIDS:
+Engine oil: for most of the weather conditions, 10W-40 will fit, if you live in extremely cold area, you may want 5W-30., anyway, it should be SF,SF/CC,SF/CD or SF/SG type.
+Auto transmission oil: I used Mopar ATF for the AW4 transmission 
+Differentials: 80W-90 GL-5 gear lubricant (if your rear diff is equipped with the limited slip, you should add 2 oz. of Friction Modifier additive.
+Transfer case oil: Dextron 3 ATF.
+Break fluid: DOT 3.
+Clutch fluid: DOT 3
+Power steering fluid: Jeep power steering fluid or equivalent (I used Dextron 3 ATF for 10 years…)
+-->
+
 
 **Every 1 Months**
 * Engine bay check levels and add as needed:
@@ -40,12 +52,13 @@ author_profile: true
 
 
 **Every 12 Months**
-* Check battery and cables (clean if needed)
 * Check and clean brakes whilst the wheels have been removed. Replace brakes if needed.
 * Check transfer/differentials oil level and oil condition (make sure the oil is clean and no water joined the party !
 * Check engine belt tension and the engine belt itself, replace if needed.
 * Check suspension parts – bushings, control arms: look for cranks/play.
 * Check water pump (visual inspection only, look for leaks)
+* Check battery and cables (clean if needed)
+* Change cabin filter
 * Change the air filter
 * Lubricate Steering Linkage
 * Lubricate steering and suspension ball joints
@@ -118,4 +131,24 @@ Some resources:
 * Tools Required
 * Parts Required
 * Resources
- 
+
+----
+**Change Spark Plugs**
+* Summary
+* Tools Required
+* Parts Required
+* Resources
+
+----
+**Change Cabin Filter and Air Filter**
+* Summary
+* Tools Required
+* Parts Required
+* Resources
+
+----
+**Change transfer and differentials oil**
+* Summary
+* Tools Required
+* Parts Required
+* Resources
