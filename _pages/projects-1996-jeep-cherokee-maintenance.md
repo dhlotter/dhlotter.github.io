@@ -29,7 +29,7 @@ Power steering fluid: Jeep power steering fluid or equivalent (I used Dextron 3 
 
 **Every 1 Months**
 * Engine bay check levels and add as needed:
-    * Engine oil 
+    * Engine oil - Shell Ultra Full synthetic 5W-40
     * Power steering 
     * Coolant
     * Window washer
@@ -39,63 +39,63 @@ Power steering fluid: Jeep power steering fluid or equivalent (I used Dextron 3 
 
 
 **Every 6 Months** 
-* [ ] Check brake hoses
-* [x] Check coolant level, hoses, and clamps. Look for dry hose/leaks
-* [x] Check exhaust system
-* [x] Check lights and other electrical items for correct operation
-* [x] Change engine oil
-* [x] Change oil filter
-* [ ] Lubricate steering linkage
-* [ ] Lubricate propeller shaft u-joints and slip splines
-* [ ] Lubricate steering and suspension ball joints
-* [ ] Rotate the tires 
-* [ ] Clean and wax/buff car
+* [ ]  Check brake hoses
+* [x]  Check coolant level, hoses, and clamps. Look for dry hose/leaks
+* [x]  Check exhaust system
+* [x]  Check lights and other electrical items for correct operation
+* [x]  Change engine oil
+* [x]  Change oil filter
+* [ ]  Lubricate steering linkage
+* [ ]  Lubricate propeller shaft u-joints and slip splines
+* [ ]  Lubricate steering and suspension ball joints
+* [ ]  Rotate the tires 
+* [ ]  Clean and wax/buff car
 
 
 **Every 12 Months**
-* [ ] Check and clean brakes whilst the wheels have been removed. Replace brakes if needed.
-* [ ] Check transfer/differentials oil level and oil condition. 
-* [ ] Check engine belt tension and the engine belt itself, replace if needed.
-* [ ] Check suspension parts – bushings, control arms: look for cranks/play.
-* [x] Check water pump (visual inspection only, look for leaks)
-* [ ] Check battery and cables (clean if needed)
-* [ ] Change cabin filter
-* [x] Change the air filter
-* [ ] Lubricate Steering Linkage
-* [ ] Lubricate steering and suspension ball joints
-* [ ] Lubricate all door hinges, locks, and bonnet catches
+* [ ]  Check and clean brakes whilst the wheels have been removed. Replace brakes if needed.
+* [ ]  Check transfer/differentials oil level and oil condition. 
+* [ ]  Check engine belt tension and the engine belt itself, replace if needed.
+* [ ]  Check suspension parts – bushings, control arms: look for cranks/play.
+* [x]  Check water pump (visual inspection only, look for leaks)
+* [ ]  Check battery and cables (clean if needed)
+* [ ]  Change cabin filter
+* [x]  Change the air filter
+* [ ]  Lubricate Steering Linkage
+* [ ]  Lubricate steering and suspension ball joints
+* [ ]  Lubricate all door hinges, locks, and bonnet catches
 
 
 **Every 24 Months**
-* [ ] Check PCV valve
-* [ ] Check ignition timing
-* [ ] Check valve clearance and adjustment
-* [ ] Check spark plug wires and distributor cup (for XJ’s before 2001), replace them every 100000 km – or before if needed.
-* [ ] Check and replace wiper blades
-* [ ] Check steering gearbox & boots
-* [ ] Check driveshaft boots
-* [ ] Check engine idle settings
-* [ ] Check clutch release arm travel
-* [x] Change automatic transmission oil and filter
-* [ ] Change transfer and differentials oil
-* [ ] Change the fuel filter
-* [ ] Change the coolant (if your radiator is more than 5 years old and has the plastic tanks, it would be a good idea to replace it as well)
-* [ ] Change spark plugs & ignition cables
-* [ ] Change power steering fluid
-* [ ] Brake line bleeding and fluid change
-* [x] Clean fuel injectors
-* [ ] Clean and adjust throttle body
-* [ ] Have complete air-con service
+* [ ]  Check PCV valve
+* [ ]  Check ignition timing
+* [ ]  Check valve clearance and adjustment
+* [ ]  Check spark plug wires and distributor cup (for XJ’s before 2001), replace them every 100000 km – or before if needed.
+* [ ]  Check and replace wiper blades
+* [ ]  Check steering gearbox & boots
+* [ ]  Check driveshaft boots
+* [ ]  Check engine idle settings
+* [ ]  Check clutch release arm travel
+* [x]  Change automatic transmission oil and filter
+* [ ]  Change transfer and differentials oil
+* [ ]  Change the fuel filter
+* [ ]  Change the coolant (if your radiator is more than 5 years old and has the plastic tanks, it would be a good idea to replace it as well)
+* [ ]  Change spark plugs & ignition cables
+* [ ]  Change power steering fluid
+* [ ]  Brake line bleeding and fluid change
+* [x]  Clean fuel injectors
+* [ ]  Clean and adjust throttle body
+* [ ]  Have complete air-con service
 
 
 **Every 60 Months**
-* [ ] Check status of clutch plate and related parts
-* [ ] Check condition of engine mounts
-* [ ] Change timing belt / balancer
-* [ ] Change all drive belts
-* [ ] Change all hose pipes
-* [ ] Consider replacing water pump
-* [ ] Revamp suspension
+* [ ]  Check status of clutch plate and related parts
+* [ ]  Check condition of engine mounts
+* [ ]  Change timing belt / balancer
+* [ ]  Change all drive belts
+* [ ]  Change all hose pipes
+* [ ]  Consider replacing water pump
+* [ ]  Revamp suspension
 
 
 Some resources:
