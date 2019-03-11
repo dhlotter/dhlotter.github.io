@@ -28,14 +28,13 @@ Power steering fluid: Jeep power steering fluid or equivalent (I used Dextron 3 
 
 
 **Every 1 Months**
-* Engine bay check levels and add as needed:
-    * Engine oil - Shell Ultra Full synthetic 5W-40
-    * Power steering 
-    * Coolant
-    * Window washer
-    * Brake master cylinder
-    * Transmission 
-* Tires visual inspection and tire pressure 2.3 bar
+* [ ]  Check Engine oil - Shell Ultra Full synthetic 5W-40
+* [ ]  Check Power steering 
+* [ ]  Check Coolant
+* [ ]  Check Window washer
+* [ ]  Check Brake master cylinder
+* [ ]  Check Transmission 
+* [ ]  Check Tires visual inspection and tire pressure 2.3 bar
 
 
 **Every 6 Months** 
