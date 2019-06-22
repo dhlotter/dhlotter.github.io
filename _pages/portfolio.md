@@ -23,14 +23,12 @@ To keep momentum and visualize my progress, I track my monthly nett worth and ov
 * Property - Cape Town 
 
 
-
 <!-- Styles -->
 <style>
 #chartdiv {
-  width: 100%;
-  height: 500px;
+  width: 80%;
+  height: 400px;
 }
-
 </style>
 
 <!-- Resources -->
@@ -50,7 +48,6 @@ am4core.useTheme(am4themes_animated);
 var chart = am4core.create("chartdiv", am4charts.PieChart);
 
 // Add data
-
 chart.data = [ {
   "Category": "Emergency Fund",
   "Percentage": 2.19
@@ -65,11 +62,14 @@ chart.data = [ {
   "Percentage": 55.73
 } ];
 
+// Set inner radius
+chart.innerRadius = am4core.percent(30);
+
 // Add and configure Series
 var pieSeries = chart.series.push(new am4charts.PieSeries());
 pieSeries.dataFields.value = "Percentage";
 pieSeries.dataFields.category = "Category";
-pieSeries.slices.template.stroke = am4core.color("#FFFFFF");
+pieSeries.slices.template.stroke = am4core.color("#fff");
 pieSeries.slices.template.strokeWidth = 2;
 pieSeries.slices.template.strokeOpacity = 1;
 
@@ -83,5 +83,3 @@ pieSeries.hiddenState.properties.startAngle = -90;
 
 <!-- HTML -->
 <div id="chartdiv"></div>
-
-
