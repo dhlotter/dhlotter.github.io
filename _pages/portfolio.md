@@ -7,22 +7,6 @@ author_profile: true
 
 To keep momentum and visualize my progress, I track my monthly nett worth and over the years my strategy has evolved to something fairly passive which doesn't require a lot of thinking anymore. Therefor, most of what I own is in ETF's and looks like this:
 
-
-**Emergency Fund** 
-* 3 months living expenses
-
-**Retirement** 
-* Momentum - Investo Retirement Annuity
-* Investec - iSelect Preservation Pension Plan
-* Investec - iSelect Preservation Provident Fund
-
-**Tax Free Savings Account** 
-* Easy Equities - Sygnia Itrix MSCI World ETF
-
-**Other**
-* Binance - Crypto 
-* Property - Cape Town 
-
 <html lang="en-US">
 <body>
 <div id="piechart"></div>
@@ -56,3 +40,21 @@ function drawChart() {
 </script>
 </body>
 </html>
+
+
+**Emergency Fund** 
+* 3 months living expenses
+
+**Retirement** 
+* Momentum - Investo Retirement Annuity
+* Investec - iSelect Preservation Pension Plan
+* Investec - iSelect Preservation Provident Fund
+
+**Tax Free Savings Account** 
+* Easy Equities - Sygnia Itrix MSCI World ETF
+
+**Other**
+* Binance - Crypto 
+* Property - Cape Town 
+
+
