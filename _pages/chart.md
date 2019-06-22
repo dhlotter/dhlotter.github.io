@@ -1,13 +1,15 @@
+---
+layout: single
+permalink: /chart/
+title: "Chart"
+author_profile: true
+---
+
 <!DOCTYPE html>
 <html lang="en-US">
 <body>
-
-<h1>tanother est</h1>
-
 <div id="piechart"></div>
-
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
 <script type="text/javascript">
 // Load google charts
 google.charts.load('current', {'packages':['corechart']});
@@ -16,7 +18,7 @@ google.charts.setOnLoadCallback(drawChart);
 // Draw the chart and set the chart values
 function drawChart() {
   var data = google.visualization.arrayToDataTable([
-  ['Task', 'Hours per Day'],
+  ['Fund', 'Percentage'],
   ['Work', 8],
   ['Eat', 2],
   ['TV', 4],
@@ -32,6 +34,5 @@ function drawChart() {
   chart.draw(data, options);
 }
 </script>
-
 </body>
 </html>
