@@ -15,26 +15,19 @@ To keep momentum and visualize my progress, I track my monthly nett worth and ov
 // Load google charts
 google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(drawChart);
-
 // Draw the chart and set the chart values
 function drawChart() {
   var data = google.visualization.arrayToDataTable([
   ['Fund', 'Percentage'],
-  ['Easy Equities - Sygnia Itrix MSCI World ETF', 4.94%],
-  ['Momentum - Investo Retirement Annuity', 13.80],
-  ['Investec - iSelect Preservation Pension Plan', 19.30],
-  ['Investec - iSelect Preservation Provident Fund', 4.04],
-  ['Seapoint Property', 8]
-  ['Emergency Fund', 2.19]
-  ['Crypto',  0.28]
-
+  ['Emergency Fund', 2.19],
+  ['Retirement', 37.14],
+  ['TFSA', 4.94],
+  ['Other',  55.73]
 ]);
-
   // Optional; add a title and set the width and height of the chart
   var options = {'title':'My Average Day', 'width':550, 'height':400};
-
   // Display the chart inside the <div> element with id="piechart"
-  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  var chart = new google.visualization.PieChart(document.getElementById ('piechart'));
   chart.draw(data, options);
 }
 </script>
