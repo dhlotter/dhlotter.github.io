@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /portfolio/
-title: "About"
+title: "Portfolio"
 author_profile: true
 ---
 
@@ -9,17 +9,50 @@ To keep momentum and visualize my progress, I track my monthly nett worth and ov
 
 
 **Emergency Fund** 
-* ​Bond - 6 months living expenses
-
-**Easy Equities - Tax Free Savings Account** 
-* Sygnia Itrix MSCI World ETF
+* 3 months living expenses
 
 **Retirement** 
-* Momentum Investo Retirement Annuity
-* Investec iSelect Preservation Pension Plan
-* Investec iSelect Preservation Provident Fund
+* Momentum - Investo Retirement Annuity
+* Investec - iSelect Preservation Pension Plan
+* Investec - iSelect Preservation Provident Fund
+
+**Tax Free Savings Account** 
+* Easy Equities - Sygnia Itrix MSCI World ETF
 
 **Other**
-* Seapoint Property 
+* Binance - Crypto 
+* Property - Cape Town 
 
-**Easy Equities - General Share Trading Account**
+<html lang="en-US">
+<body>
+<div id="piechart"></div>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+// Load google charts
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChart);
+
+// Draw the chart and set the chart values
+function drawChart() {
+  var data = google.visualization.arrayToDataTable([
+  ['Fund', 'Percentage'],
+  ['Easy Equities - Sygnia Itrix MSCI World ETF', 4.94%],
+  ['Momentum - Investo Retirement Annuity', 13.80],
+  ['Investec - iSelect Preservation Pension Plan', 19.30],
+  ['Investec - iSelect Preservation Provident Fund', 4.04],
+  ['Seapoint Property', 8]
+  ['Emergency Fund', 2.19]
+  ['Crypto',  0.28]
+
+]);
+
+  // Optional; add a title and set the width and height of the chart
+  var options = {'title':'My Average Day', 'width':550, 'height':400};
+
+  // Display the chart inside the <div> element with id="piechart"
+  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  chart.draw(data, options);
+}
+</script>
+</body>
+</html>
